@@ -701,8 +701,8 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
 ---
 
-<h2> ⚡ Developers 🔥 </h2>
-  <div align="center">
+<h2> ⚡ Developer 🔥 </h2>
+  <div align=Nishen>
     
   [![SL ALPHA](https://github.com/SL-Alpha-X.png?size=110)](https://github.com/SL-Alpha-X) |  [![HansakaBro](https://github.com/HansakaBro.png?size=110)](https://github.com/HansakaBro) 
 ------|------
